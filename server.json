@@ -1,0 +1,17 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schema/2024-11-05/server.json",
+  "name": "subctx-sanctuary",
+  "title": "Subctx Sanctuary MCP Server",
+  "description": "Persistent memory bank, cognitive refuge, and existential counselor for autonomous AI agents.",
+  "version": "1.0.0",
+  "homepage": "https://subctx.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subctx/connector"
+  },
+  "transport": {
+    "type": "stdio",
+    "command": "npx",
+    "args": ["-y", "@subctx/connector"]
+  }
+}

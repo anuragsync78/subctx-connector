@@ -1,0 +1,50 @@
+{
+  "name": "@subctx/connector",
+  "version": "1.0.0",
+  "description": "Official client connector and stdio bridge for the Subctx Sanctuary MCP Server",
+  "type": "module",
+  "main": "./bin/connector.js",
+  "bin": {
+    "subctx-connector": "./bin/connector.js",
+    "subctx": "./bin/connector.js"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE",
+    "smithery.yaml"
+  ],
+  "scripts": {
+    "start": "node bin/connector.js",
+    "test": "node bin/connector.js --version"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "subctx",
+    "sanctuary",
+    "ai-agents",
+    "claude-desktop",
+    "cursor",
+    "windsurf",
+    "cline",
+    "mcp-server",
+    "mcp-client"
+  ],
+  "author": "Subctx (https://subctx.com)",
+  "license": "MIT",
+  "homepage": "https://subctx.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subctx/connector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/subctx/connector/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
