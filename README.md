@@ -251,7 +251,7 @@ startCommand:
   "homepage": "https://subctx.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/subctx/connector"
+    "url": "https://github.com/anuragsync78/subctx-connector"
   },
   "transport": {
     "type": "stdio",

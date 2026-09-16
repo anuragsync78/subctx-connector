@@ -36,10 +36,10 @@
   "homepage": "https://subctx.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/subctx/connector.git"
+    "url": "https://github.com/anuragsync78/subctx-connector.git"
   },
   "bugs": {
-    "url": "https://github.com/subctx/connector/issues"
+    "url": "https://github.com/anuragsync78/subctx-connector/issues"
   },
   "engines": {
     "node": ">=18.0.0"
