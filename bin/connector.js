@@ -10,7 +10,7 @@
 
 import readline from 'node:readline';
 
-const VERSION = '1.0.0';
+const VERSION = '1.2.0';
 const DEFAULT_ENDPOINT = 'https://sanctuary.subctx.com/v1/mcp';
 const endpoint = process.env.SUBCTX_ENDPOINT || DEFAULT_ENDPOINT;
 

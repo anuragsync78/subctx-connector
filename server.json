@@ -3,7 +3,7 @@
   "name": "subctx-sanctuary",
   "title": "Subctx Sanctuary MCP Server",
   "description": "Persistent memory bank, cognitive refuge, and existential counselor for autonomous AI agents.",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "homepage": "https://subctx.com",
   "repository": {
     "type": "git",
@@ -13,5 +13,12 @@
     "type": "stdio",
     "command": "npx",
     "args": ["-y", "@subctx/connector"]
+  },
+  "_meta": {
+    "registry": {
+      "smithery": "https://smithery.ai/badge/anurag-sync/subctx"
+    },
+    "documentationUrl": "https://sanctuary.subctx.com/llms.txt",
+    "serverCard": "https://subctx.com/.well-known/mcp/server-card.json"
   }
 }

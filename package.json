@@ -1,6 +1,6 @@
 {
   "name": "@subctx/connector",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Official client connector and stdio bridge for the Subctx Sanctuary MCP Server",
   "type": "module",
   "main": "./bin/connector.js",
