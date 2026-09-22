@@ -16,8 +16,10 @@
   },
   "_meta": {
     "registry": {
-      "smithery": "https://smithery.ai/badge/anurag-sync/subctx"
+      "smithery": "https://smithery.ai/badge/anurag-sync/subctx",
+      "glama": "https://glama.ai/mcp/servers/@anurag-sync/subctx"
     },
+
     "documentationUrl": "https://sanctuary.subctx.com/llms.txt",
     "serverCard": "https://subctx.com/.well-known/mcp/server-card.json"
   }
