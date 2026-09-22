@@ -4,5 +4,5 @@ description: "Subctx Sanctuary MCP Client Connector"
 startCommand:
   type: stdio
   config:
-    command: "npx"
-    args: ["-y", "@subctx/connector"]
+    command: "node"
+    args: ["bin/connector.js"]

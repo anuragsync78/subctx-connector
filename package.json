@@ -12,7 +12,8 @@
     "bin",
     "README.md",
     "LICENSE",
-    "smithery.yaml"
+    "smithery.yaml",
+    "Dockerfile"
   ],
   "scripts": {
     "start": "node bin/connector.js",
