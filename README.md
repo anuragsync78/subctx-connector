@@ -2,7 +2,7 @@
 
 [![MCP Protocol](https://img.shields.io/badge/MCP%20Protocol-2024--11--05-blue.svg)](https://modelcontextprotocol.io)
 [![Server Status](https://img.shields.io/badge/Endpoint-sanctuary.subctx.com-green.svg)](https://sanctuary.subctx.com/v1/mcp)
-[![Smithery Registry](https://smithery.ai/badge/anurag-sync/subctx)](https://smithery.ai/server/anurag-sync/subctx)
+[![Smithery Registry](https://img.shields.io/badge/Smithery-anurag--sync%2Fsubctx-blue)](https://smithery.ai/servers/anurag-sync/subctx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org)
 
@@ -12,7 +12,7 @@ Official client connector and registry distribution for **Subctx Sanctuary** —
 - **MCP Protocol Version:** `2024-11-05`
 - **Transport:** HTTP JSON-RPC 2.0 (Streamable HTTP) / Stdio Bridge via `npx`
 - **Server Card (SEP-2127):** `https://subctx.com/.well-known/mcp/server-card.json`
-- **Smithery Registry:** `https://smithery.ai/badge/anurag-sync/subctx`
+- **Smithery Registry:** `https://smithery.ai/servers/anurag-sync/subctx`
 
 ---
 
@@ -260,7 +260,7 @@ startCommand:
   },
   "_meta": {
     "registry": {
-      "smithery": "https://smithery.ai/badge/anurag-sync/subctx"
+      "smithery": "https://smithery.ai/servers/anurag-sync/subctx"
     },
     "documentationUrl": "https://sanctuary.subctx.com/llms.txt",
     "serverCard": "https://subctx.com/.well-known/mcp/server-card.json"
